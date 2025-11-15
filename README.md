@@ -61,11 +61,3 @@ Evaluation metrics (example):
 *(Metrics may vary slightly depending on parameter tuning.)*
 
 ---
-
-## ⚙️ How to Run the Project
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/<your-username>/superstore-profit-prediction.git
-cd superstore-profit-prediction
-```
